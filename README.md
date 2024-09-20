@@ -1,3 +1,4 @@
 SRB Verus Linux
 
-File : https://github.com/Stillalv/SRB-Miner-Verus-Coin/blob/main/SRBVerus-1.tar.gz
+File : [File](https://url-ke-file)
+
